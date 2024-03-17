@@ -161,6 +161,9 @@ cython_debug/
 
 *.xlm
 
+*.png
+*.dot
+
 *.xlsx
 *.xls
 *.doc
