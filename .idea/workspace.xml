@@ -5,7 +5,92 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="316eb00b-d60b-46c1-b96c-852f75bcec82" name="Changes" comment="courses">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Decision-Trees-and-Random-Forests/Decision Trees and Random Forest Project - Solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Decision-Trees-and-Random-Forests/Decision Trees and Random Forest Project .ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Decision-Trees-and-Random-Forests/Decision Trees and Random Forests in Python.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Means-Clustering/College_Data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Means-Clustering/K Means Clustering Project - Solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Means-Clustering/K Means Clustering Project .ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Means-Clustering/K Means Clustering with Python.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Nearest-Neighbors/Classified Data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Nearest-Neighbors/K Nearest Neighbors Project - Solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Nearest-Neighbors/K Nearest Neighbors Project.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Nearest-Neighbors/K Nearest Neighbors with Python.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Nearest-Neighbors/KNN_Project_Data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Linear-Regression/Ecommerce Customers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Linear-Regression/Linear Regression - Project Exercise - Solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Linear-Regression/Linear Regression - Project Exercise .ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Linear-Regression/Linear Regression with Python.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Logistic-Regression/Logistic Regression Project - Solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Logistic-Regression/Logistic Regression Project .ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Logistic-Regression/Logistic Regression with Python.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Natural-Language-Processing/NLP (Natural Language Processing) with Python.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Natural-Language-Processing/NLP Project - Solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Natural-Language-Processing/NLP Project .ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Natural-Language-Processing/smsspamcollection/SMSSpamCollection" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Natural-Language-Processing/smsspamcollection/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Principal-Component-Analysis/Principal Component Analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Recommender-Systems/Advanced Recommender Systems with Python.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Recommender-Systems/Movie_Id_Titles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Recommender-Systems/Recommender Systems with Python.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Recommender-Systems/u.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Recommender-Systems/u.item" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Support-Vector-Machines/Support Vector Machines Project - Solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Support-Vector-Machines/Support Vector Machines Project .ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Support-Vector-Machines/Support Vector Machines with Python.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-Crash-Course/Python Crash Course Exercises - Solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-Crash-Course/Python Crash Course Exercises .ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-Crash-Course/Python Crash Course.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/NumPy/NumPy Arrays.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/NumPy/Numpy Exercise - Solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/NumPy/Numpy Indexing and Selection.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/NumPy/Numpy Operations.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Data Input and Output.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/DataFrames.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Groupby.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Introduction to Pandas.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Merging, Joining, and Concatenating .ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Missing Data.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Operations.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases Exercise - Solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases Exercise .ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise- Solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Series.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/multi_index_example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/SciPy/SciPy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/2011_US_AGRI_Exports" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/2012_Election_Data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/2014_World_GDP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/2014_World_Power_Consumption" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/Choropleth Maps Exercise - Solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/Choropleth Maps Exercise .ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/Choropleth Maps.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/plotly_cheat_sheet.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Matplotlib/Advanced Matplotlib Concepts.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Matplotlib/Matplotlib Concepts Lecture.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Matplotlib/Matplotlib Exercises - Solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Matplotlib/Matplotlib Exercises .ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/Pandas Built-in Data Visualization.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/Pandas Data Visualization Exercise - Solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/Pandas Data Visualization Exercise .ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/df1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/df2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/df3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Plotly and Cufflinks/Plotly and Cufflinks.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/Categorical Plots.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/Distribution Plots.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/Grids.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/Matrix Plots.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/Regression Plots.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/Seaborn Exercises - Solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/Seaborn Exercises .ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/Style and Color.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Python-Data-Science-and-Machine-Learning-Bootcamp/Welcome to the Course.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +162,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710675560781</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="courses">
+      <option name="closed" value="true" />
+      <created>1710675865569</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710675865569</updated>
+    </task>
+    <task id="LOCAL-00005" summary="courses">
+      <option name="closed" value="true" />
+      <created>1710676105994</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710676105994</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
